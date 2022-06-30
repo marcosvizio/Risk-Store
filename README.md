@@ -6,7 +6,7 @@ Este es un proyecto personal enfocado en el aprendizaje de React JS, la tienda e
 
 ## Deploy 
 
-Para ver el proyecto a traves de VERCEL desde [acá](https://risk-store.vercel.app/)
+Para ver el proyecto a traves de VERCEL desde [acá](https://risk-store-mrcocoi.vercel.app/)
 
 ## GIF de proceso de compra 
 
